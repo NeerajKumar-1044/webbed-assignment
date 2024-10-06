@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Quantum Leap Tech",
+    "sector": ["Software/IT", "Cybersecurity"],
+    "website": "https://www.quantumleap.com",
+    "category": ["Private"],
+    "postalAddress": "Block 32, Tech Hub, Pune, Maharashtra, India",
+    "jobDetails": {
+      "jobType": "on-site",
+      "Salary": "15 LPA",
+      "jobDesignation": "Cybersecurity Analyst",
+      "tentativeNoOfHires": "4",
+      "tentativeJoiningDate": "2024-04-10",
+      "tentativeJobLocation": "Pune",
+      "jobDescription": "Monitor and secure networks. Expertise in threat intelligence, intrusion detection, and firewalls is essential."
+    },
+    "contactDetails": {
+      "HR": {
+        "name": "Pooja Desai",
+        "designation": "HR Manager",
+        "mobileNumber": 9876543211,
+        "telephoneNumber": "020-2345-4567",
+        "emailId": "pooja.desai@quantumleap.com"
+      }
+    },
+    "eligibleBranches": [
+      "Computer Science and Engineering",
+      "Information Technology",
+      "Cybersecurity"
+    ],
+    "eligibility": [
+      "professional"
+    ]
+  },
+  
+  {
+    "name": "Innovative Minds",
+    "sector": ["AI/ML", "Software/IT"],
+    "website": "https://www.innovativeminds.com",
+    "category": ["Private"],
+    "postalAddress": "Plot 202, Innovation Center, Hyderabad, Telangana, India",
+    "jobDetails": {
+      "jobType": "on-site",
+      "Salary": "10 LPA",
+      "jobDesignation": "Machine Learning Engineer",
+      "tentativeNoOfHires": "6",
+      "tentativeJoiningDate": "2024-03-01",
+      "tentativeJobLocation": "Pune",
+      "jobDescription": "Design and build AI models using Python, TensorFlow, and Keras. Strong understanding of NLP is required."
+    },
+    "contactDetails": {
+      "HR": {
+        "name": "Ravi Kumar",
+        "designation": "HR Executive",
+        "mobileNumber": 9867541210,
+        "telephoneNumber": "040-6789-1234",
+        "emailId": "ravi.kumar@innovativeminds.com"
+      }
+    },
+    "eligibleBranches": [
+      "Computer Science and Engineering",
+      "Information Technology"
+    ],
+    "eligibility": [
+      "fresher", "professional"
+    ]
+  },
+  
+  {
+    "name": "FutureTech Innovations",
+    "sector": ["Software/IT", "Blockchain"],
+    "website": "https://www.futuretech.com",
+    "category": ["Private"],
+    "postalAddress": "Sector 12, Industrial Zone, Gurugram, Haryana, India",
+    "jobDetails": {
+      "jobType": "remote",
+      "Salary": "12 LPA",
+      "jobDesignation": "Blockchain Developer",
+      "tentativeNoOfHires": "8",
+      "tentativeJoiningDate": "2024-01-20",
+      "tentativeJobLocation": "Bangalore",
+      "jobDescription": "Develop decentralized applications (dApps) and smart contracts using Ethereum and Solidity."
+    },
+    "contactDetails": {
+      "HR": {
+        "name": "Neha Patel",
+        "designation": "HR Lead",
+        "mobileNumber": 9875641200,
+        "telephoneNumber": "0124-5678-9012",
+        "emailId": "neha.patel@futuretech.com"
+      }
+    },
+    "eligibleBranches": [
+      "Computer Science and Engineering",
+      "Information Technology",
+      "Cybersecurity"
+    ],
+    "eligibility": [
+      "fresher"
+    ]
+  },
+  
+  {
+    "name": "Vortex Technologies",
+    "sector": ["Software/IT", "Cloud Computing"],
+    "website": "https://www.vortextech.com",
+    "category": ["Private"],
+    "postalAddress": "Tower B, Tech City, Mumbai, Maharashtra, India",
+    "jobDetails": {
+      "jobType": "on-site",
+      "Salary": "18 LPA",
+      "jobDesignation": "Cloud Engineer",
+      "tentativeNoOfHires": "5",
+      "tentativeJoiningDate": "2024-02-10",
+      "tentativeJobLocation": "Mumbai",
+      "jobDescription": "Deploy and manage cloud-based infrastructure using AWS and Azure. Experience with Kubernetes is essential."
+    },
+    "contactDetails": {
+      "HR": {
+        "name": "Arjun Nair",
+        "designation": "HR Manager",
+        "mobileNumber": 9876546789,
+        "telephoneNumber": "022-2345-7890",
+        "emailId": "arjun.nair@vortextech.com"
+      }
+    },
+    "eligibleBranches": [
+      "Computer Science and Engineering",
+      "Information Technology",
+      "Cybersecurity"
+    ],
+    "eligibility": [
+      "professional"
+    ]
+  },
+  
+  {
+    "name": "DataDrive Solutions",
+    "sector": ["Software/IT", "Data Science"],
+    "website": "https://www.datadrive.com",
+    "category": ["Private"],
+    "postalAddress": "Sector 15, IT Park, Kolkata, West Bengal, India",
+    "jobDetails": {
+      "jobType": "remote",
+      "Salary": "10 LPA",
+      "jobDesignation": "Data Scientist",
+      "tentativeNoOfHires": "4",
+      "tentativeJoiningDate": "2024-03-20",
+      "tentativeJobLocation": "Mumbai",
+      "jobDescription": "Analyze large datasets using Python, R, and SQL. Experience in data visualization tools like Tableau is required."
+    },
+    "contactDetails": {
+      "HR": {
+        "name": "Priya Sen",
+        "designation": "HR Manager",
+        "mobileNumber": 9867545678,
+        "telephoneNumber": "033-6789-3456",
+        "emailId": "priya.sen@datadrive.com"
+      }
+    },
+    "eligibleBranches": [
+      "Computer Science and Engineering",
+      "Information Technology",
+      "Cybersecurity"
+    ],
+    "eligibility": [
+      "fresher", "professional"
+    ]
+  }
+]
