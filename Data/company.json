@@ -30,9 +30,9 @@
     ],
     "eligibility": [
       "professional"
-    ]
+    ],
+    "recruitmentData": [3, 5, 4, 4, 6]
   },
-  
   {
     "name": "Innovative Minds",
     "sector": ["AI/ML", "Software/IT"],
@@ -63,9 +63,9 @@
     ],
     "eligibility": [
       "fresher", "professional"
-    ]
+    ],
+    "recruitmentData": [6, 5, 6, 7, 8]
   },
-  
   {
     "name": "FutureTech Innovations",
     "sector": ["Software/IT", "Blockchain"],
@@ -97,9 +97,9 @@
     ],
     "eligibility": [
       "fresher"
-    ]
+    ],
+    "recruitmentData": [7, 6, 8, 6, 9]
   },
-  
   {
     "name": "Vortex Technologies",
     "sector": ["Software/IT", "Cloud Computing"],
@@ -131,9 +131,9 @@
     ],
     "eligibility": [
       "professional"
-    ]
+    ],
+    "recruitmentData": [5, 4, 5, 6, 7]
   },
-  
   {
     "name": "DataDrive Solutions",
     "sector": ["Software/IT", "Data Science"],
@@ -165,6 +165,438 @@
     ],
     "eligibility": [
       "fresher", "professional"
-    ]
-  }
-]
+    ],
+    "recruitmentData": [4, 5, 3, 4, 5]
+  },
+  {
+    "name": "TechGiant Solutions",
+    "sector": ["Software/IT", "AI/ML"],
+    "website": "https://www.techgiant.com",
+    "category": ["Private"],
+    "postalAddress": "Tech Park, Block C, Bangalore, Karnataka, India",
+    "jobDetails": {
+      "jobType": "on-site",
+      "Salary": "18 LPA",
+      "jobDesignation": "AI Research Scientist",
+      "tentativeNoOfHires": "3",
+      "tentativeJoiningDate": "2024-05-01",
+      "tentativeJobLocation": "Bangalore",
+      "jobDescription": "Research and develop advanced AI models for image and speech recognition. Expertise in deep learning is required."
+    },
+    "contactDetails": {
+      "HR": {
+        "name": "Meera Sharma",
+        "designation": "HR Executive",
+        "mobileNumber": 9876541234,
+        "telephoneNumber": "080-6789-9876",
+        "emailId": "meera.sharma@techgiant.com"
+      }
+    },
+    "eligibleBranches": [
+      "Computer Science and Engineering",
+      "Information Technology"
+    ],
+    "eligibility": [
+      "professional"
+    ],
+    "recruitmentData": [3, 3, 4, 4, 6]
+  },
+  {
+    "name": "Alpha Coders",
+    "sector": ["Software/IT", "Cybersecurity"],
+    "website": "https://www.alphacoders.com",
+    "category": ["Private"],
+    "postalAddress": "Industrial Zone, Mumbai, Maharashtra, India",
+    "jobDetails": {
+      "jobType": "remote",
+      "Salary": "12 LPA",
+      "jobDesignation": "Ethical Hacker",
+      "tentativeNoOfHires": "4",
+      "tentativeJoiningDate": "2024-06-15",
+      "tentativeJobLocation": "Mumbai",
+      "jobDescription": "Perform vulnerability assessments and penetration testing. Experience in ethical hacking tools is required."
+    },
+    "contactDetails": {
+      "HR": {
+        "name": "Rahul Gupta",
+        "designation": "HR Lead",
+        "mobileNumber": 9876545678,
+        "telephoneNumber": "022-7894-5678",
+        "emailId": "rahul.gupta@alphacoders.com"
+      }
+    },
+    "eligibleBranches": [
+      "Computer Science and Engineering",
+      "Cybersecurity"
+    ],
+    "eligibility": [
+      "professional"
+    ],
+    "recruitmentData": [4, 3, 5, 4, 5]
+  },
+  {
+    "name": "DeepNet Solutions",
+    "sector": ["Software/IT", "AI/ML"],
+    "website": "https://www.deepnetsolutions.com",
+    "category": ["Private"],
+    "postalAddress": "Sector 27, Gurgaon, Haryana, India",
+    "jobDetails": {
+      "jobType": "remote",
+      "Salary": "14 LPA",
+      "jobDesignation": "AI Software Engineer",
+      "tentativeNoOfHires": "6",
+      "tentativeJoiningDate": "2024-02-20",
+      "tentativeJobLocation": "Delhi",
+      "jobDescription": "Design and implement AI software using Python and TensorFlow. Knowledge of reinforcement learning is required."
+    },
+    "contactDetails": {
+      "HR": {
+        "name": "Sonia Gupta",
+        "designation": "HR Executive",
+        "mobileNumber": 9876543456,
+        "telephoneNumber": "0124-5678-3456",
+        "emailId": "sonia.gupta@deepnetsolutions.com"
+      }
+    },
+    "eligibleBranches": [
+      "Computer Science and Engineering",
+      "Information Technology"
+    ],
+    "eligibility": [
+      "fresher"
+    ],
+    "recruitmentData": [6, 7, 5, 6, 7]
+  },
+  
+    {
+      "name": "TechNova Solutions",
+      "sector": ["Software/IT", "Cloud Computing"],
+      "website": "https://www.technovasolutions.com",
+      "category": ["Private"],
+      "postalAddress": "Plot 12, IT Park, Bangalore, Karnataka, India",
+      "jobDetails": {
+        "jobType": "remote",
+        "Salary": "12 LPA",
+        "jobDesignation": "Cloud Engineer",
+        "tentativeNoOfHires": "5",
+        "tentativeJoiningDate": "2024-06-10",
+        "tentativeJobLocation": "Mumbai",
+        "jobDescription": "Deploy and manage cloud infrastructure using AWS. Strong knowledge of Kubernetes required."
+      },
+      "contactDetails": {
+        "HR": {
+          "name": "Amit Kumar",
+          "designation": "HR Manager",
+          "mobileNumber": 9876543210,
+          "telephoneNumber": "080-1234-5678",
+          "emailId": "amit.kumar@technovasolutions.com"
+        }
+      },
+      "eligibleBranches": [
+        "Computer Science and Engineering",
+        "Information Technology"
+      ],
+      "eligibility": [
+        "fresher"
+      ],
+      "recruitmentData": [5, 6, 4, 3, 6]
+    },
+    {
+      "name": "DataStream Analytics",
+      "sector": ["Software/IT", "Data Science"],
+      "website": "https://www.datastream.com",
+      "category": ["Private"],
+      "postalAddress": "Tower B, Sector 5, Pune, Maharashtra, India",
+      "jobDetails": {
+        "jobType": "on-site",
+        "Salary": "15 LPA",
+        "jobDesignation": "Data Scientist",
+        "tentativeNoOfHires": "6",
+        "tentativeJoiningDate": "2024-04-20",
+        "tentativeJobLocation": "Pune",
+        "jobDescription": "Analyze and interpret complex datasets using Python, R, and SQL. Strong understanding of machine learning algorithms."
+      },
+      "contactDetails": {
+        "HR": {
+          "name": "Sunita Mehta",
+          "designation": "HR Executive",
+          "mobileNumber": 9876544321,
+          "telephoneNumber": "020-6789-1234",
+          "emailId": "sunita.mehta@datastream.com"
+        }
+      },
+      "eligibleBranches": [
+        "Computer Science and Engineering",
+        "Information Technology"
+      ],
+      "eligibility": [
+        "professional"
+      ],
+      "recruitmentData": [4, 3, 5, 6, 5]
+    },
+    {
+      "name": "CyberNetics Corp",
+      "sector": ["Software/IT", "Cybersecurity"],
+      "website": "https://www.cybernetics.com",
+      "category": ["Private"],
+      "postalAddress": "Block 27, Cyber Hub, Bangalore, Karnataka, India",
+      "jobDetails": {
+        "jobType": "remote",
+        "Salary": "18 LPA",
+        "jobDesignation": "Cybersecurity Analyst",
+        "tentativeNoOfHires": "4",
+        "tentativeJoiningDate": "2024-07-05",
+        "tentativeJobLocation": "Bangalore",
+        "jobDescription": "Ensure network security by analyzing threat intelligence and mitigating potential vulnerabilities."
+      },
+      "contactDetails": {
+        "HR": {
+          "name": "Rajesh Verma",
+          "designation": "HR Executive",
+          "mobileNumber": 9867543210,
+          "telephoneNumber": "080-2345-6789",
+          "emailId": "rajesh.verma@cybernetics.com"
+        }
+      },
+      "eligibleBranches": [
+        "Cybersecurity",
+        "Information Technology"
+      ],
+      "eligibility": [
+        "professional"
+      ],
+      "recruitmentData": [3, 5, 6, 7, 5]
+    },
+    {
+      "name": "InnovateX Technologies",
+      "sector": ["Software/IT", "AI/ML"],
+      "website": "https://www.innovatex.com",
+      "category": ["Private"],
+      "postalAddress": "Sector 9, Industrial Park, Pune, Maharashtra, India",
+      "jobDetails": {
+        "jobType": "on-site",
+        "Salary": "10 LPA",
+        "jobDesignation": "AI Engineer",
+        "tentativeNoOfHires": "7",
+        "tentativeJoiningDate": "2024-02-25",
+        "tentativeJobLocation": "Mumbai",
+        "jobDescription": "Develop AI models and implement deep learning solutions using TensorFlow and PyTorch."
+      },
+      "contactDetails": {
+        "HR": {
+          "name": "Neha Sharma",
+          "designation": "HR Manager",
+          "mobileNumber": 9876512345,
+          "telephoneNumber": "020-2345-4567",
+          "emailId": "neha.sharma@innovatex.com"
+        }
+      },
+      "eligibleBranches": [
+        "Computer Science and Engineering",
+        "Information Technology"
+      ],
+      "eligibility": [
+        "fresher"
+      ],
+      "recruitmentData": [4, 6, 5, 6, 7]
+    },
+    {
+      "name": "NextGen CyberSec",
+      "sector": ["Software/IT", "Cybersecurity"],
+      "website": "https://www.nextgensecurity.com",
+      "category": ["Private"],
+      "postalAddress": "Tower 14, Cybercity, Bangalore, Karnataka, India",
+      "jobDetails": {
+        "jobType": "remote",
+        "Salary": "12 LPA",
+        "jobDesignation": "Ethical Hacker",
+        "tentativeNoOfHires": "5",
+        "tentativeJoiningDate": "2024-08-10",
+        "tentativeJobLocation": "Bangalore",
+        "jobDescription": "Identify vulnerabilities through penetration testing and provide actionable security recommendations."
+      },
+      "contactDetails": {
+        "HR": {
+          "name": "Shreya Patel",
+          "designation": "HR Lead",
+          "mobileNumber": 9876540987,
+          "telephoneNumber": "080-1234-9876",
+          "emailId": "shreya.patel@nextgensecurity.com"
+        }
+      },
+      "eligibleBranches": [
+        "Cybersecurity",
+        "Computer Science and Engineering"
+      ],
+      "eligibility": [
+        "professional"
+      ],
+      "recruitmentData": [4, 6, 5, 5, 7]
+    },
+    {
+      "name": "Alpha Innovations",
+      "sector": ["Software/IT", "Data Science"],
+      "website": "https://www.alphainnovations.com",
+      "category": ["Private"],
+      "postalAddress": "Block 22, Tech Park, Mumbai, Maharashtra, India",
+      "jobDetails": {
+        "jobType": "on-site",
+        "Salary": "15 LPA",
+        "jobDesignation": "Data Scientist",
+        "tentativeNoOfHires": "8",
+        "tentativeJoiningDate": "2024-03-05",
+        "tentativeJobLocation": "Pune",
+        "jobDescription": "Work with big data platforms like Hadoop and Spark. Experience in predictive analytics and data mining required."
+      },
+      "contactDetails": {
+        "HR": {
+          "name": "Vikas Chauhan",
+          "designation": "HR Executive",
+          "mobileNumber": 9876541122,
+          "telephoneNumber": "022-2345-6789",
+          "emailId": "vikas.chauhan@alphainnovations.com"
+        }
+      },
+      "eligibleBranches": [
+        "Information Technology",
+        "Computer Science and Engineering"
+      ],
+      "eligibility": [
+        "fresher"
+      ],
+      "recruitmentData": [5, 4, 6, 6, 8]
+    },
+    {
+      "name": "Bright Future Technologies",
+      "sector": ["Software/IT", "Cloud Computing"],
+      "website": "https://www.brightfuture.com",
+      "category": ["Private"],
+      "postalAddress": "Sector 18, Tech City, Pune, Maharashtra, India",
+      "jobDetails": {
+        "jobType": "remote",
+        "Salary": "10 LPA",
+        "jobDesignation": "Cloud Engineer",
+        "tentativeNoOfHires": "5",
+        "tentativeJoiningDate": "2024-05-12",
+        "tentativeJobLocation": "Mumbai",
+        "jobDescription": "Manage cloud-based systems using AWS and Azure, focusing on deployment and automation."
+      },
+      "contactDetails": {
+        "HR": {
+          "name": "Rohan Khanna",
+          "designation": "HR Manager",
+          "mobileNumber": 9876512340,
+          "telephoneNumber": "020-6789-3456",
+          "emailId": "rohan.khanna@brightfuture.com"
+        }
+      },
+      "eligibleBranches": [
+        "Computer Science and Engineering",
+        "Cybersecurity"
+      ],
+      "eligibility": [
+        "professional"
+      ],
+      "recruitmentData": [6, 5, 5, 4, 7]
+    },
+    {
+      "name": "TechVista Solutions",
+      "sector": ["Software/IT", "Data Science"],
+      "website": "https://www.techvista.com",
+      "category": ["Private"],
+      "postalAddress": "Block 17, Info City, Bangalore, Karnataka, India",
+      "jobDetails": {
+        "jobType": "on-site",
+        "Salary": "18 LPA",
+        "jobDesignation": "Machine Learning Engineer",
+        "tentativeNoOfHires": "6",
+        "tentativeJoiningDate": "2024-06-15",
+        "tentativeJobLocation": "Bangalore",
+        "jobDescription": "Develop ML algorithms and models using Python and TensorFlow. Experience in NLP is a plus."
+      },
+      "contactDetails": {
+        "HR": {
+          "name": "Kiran Malhotra",
+          "designation": "HR Executive",
+          "mobileNumber": 9876512347,
+          "telephoneNumber": "080-5678-3456",
+          "emailId": "kiran.malhotra@techvista.com"
+        }
+      },
+      "eligibleBranches": [
+        "Computer Science and Engineering",
+        "Information Technology"
+      ],
+      "eligibility": [
+        "fresher"
+      ],
+      "recruitmentData": [5, 4, 5, 6, 7]
+    },
+    {
+      "name": "XtraByte Solutions",
+      "sector": ["Software/IT", "Cybersecurity"],
+      "website": "https://www.xtrabyte.com",
+      "category": ["Private"],
+      "postalAddress": "Sector 15, Tech Park, Mumbai, Maharashtra, India",
+      "jobDetails": {
+        "jobType": "remote",
+        "Salary": "15 LPA",
+        "jobDesignation": "Security Engineer",
+        "tentativeNoOfHires": "7",
+        "tentativeJoiningDate": "2024-08-25",
+        "tentativeJobLocation": "Mumbai",
+        "jobDescription": "Ensure security across cloud environments, identify vulnerabilities, and deploy firewalls."
+      },
+      "contactDetails": {
+        "HR": {
+          "name": "Anjali Rao",
+          "designation": "HR Lead",
+          "mobileNumber": 9876540989,
+          "telephoneNumber": "022-6789-1234",
+          "emailId": "anjali.rao@xtrabyte.com"
+        }
+      },
+      "eligibleBranches": [
+        "Cybersecurity",
+        "Information Technology"
+      ],
+      "eligibility": [
+        "professional"
+      ],
+      "recruitmentData": [3, 4, 5, 6, 6]
+    },
+    {
+      "name": "Innovative Minds Pvt Ltd",
+      "sector": ["Software/IT", "AI/ML"],
+      "website": "https://www.innovativeminds.com",
+      "category": ["Private"],
+      "postalAddress": "Plot 14, Silicon Valley, Pune, Maharashtra, India",
+      "jobDetails": {
+        "jobType": "on-site",
+        "Salary": "10 LPA",
+        "jobDesignation": "AI Software Engineer",
+        "tentativeNoOfHires": "8",
+        "tentativeJoiningDate": "2024-01-30",
+        "tentativeJobLocation": "Pune",
+        "jobDescription": "Design and implement AI software using Python. Knowledge of NLP and computer vision is required."
+      },
+      "contactDetails": {
+        "HR": {
+          "name": "Deepak Singh",
+          "designation": "HR Executive",
+          "mobileNumber": 9876545678,
+          "telephoneNumber": "020-3456-7890",
+          "emailId": "deepak.singh@innovativeminds.com"
+        }
+      },
+      "eligibleBranches": [
+        "Computer Science and Engineering",
+        "Information Technology"
+      ],
+      "eligibility": [
+        "fresher"
+      ],
+      "recruitmentData": [6, 5, 6, 7, 8]
+    }
+  ]
+  
