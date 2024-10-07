@@ -7,4 +7,6 @@ Technologies Used
 
 Here is the visual representation of the website-
 
-![webDev-assignment](https://github.com/user-attachments/assets/c02ea832-5086-4f6e-b947-60f7ed17d5af)
+![webdev-assignment-gif1](https://github.com/user-attachments/assets/3b7843c5-705a-41ee-8801-338ad5f5bd11)
+
+![webdev-assignment-gif2](https://github.com/user-attachments/assets/a88307b0-1d92-4d4a-a1e7-16b08b02d31e)
