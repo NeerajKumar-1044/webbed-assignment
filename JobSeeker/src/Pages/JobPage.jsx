@@ -11,11 +11,13 @@ function JobPage({ JobData }) {
           {JobData.map((company, index) => (
             <div key={index} className="bg-gray-100 p-4 rounded-lg shadow-md">
               <div className="flex items-center mb-4">
-                <img
-                  src="#"
-                  alt={`${company.name} Logo`}
-                  className="w-28 h-28 rounded-full mr-4 shadow-md"
-                />
+              {/* <svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 100 100">
+                  <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="#4CAF50"/>
+                  <text x="50%" y="50%" font-family="Arial" font-size="20" fill="white" text-anchor="middle" alignment-baseline="middle">
+                    Co
+                  </text>
+                </svg> */}
+
                 <h2 className="text-xl font-semibold text-gray-800">{company.name}</h2>
               </div>
 
@@ -41,7 +43,7 @@ function JobPage({ JobData }) {
               <button
                 className="inline-block mt-4 bg-blue-500 text-white font-semibold py-2 px-4 rounded hover:bg-blue-600 transition-colors duration-200"
               >
-             <Link to={{ pathname: '/jobdescription', state: { jobdata: company } }}>View more</Link>
+             <Link to={`/jobdescription/${company.id}`}>View more</Link>
               </button>
             </div>
           ))}

@@ -27,17 +27,26 @@ function Header() {
         <div className="items-center justify-between w-full md:flex md:w-auto md:order-1" id="navbar-search">
           <ul className="flex flex-col p-4 md:p-0 mt-4 font-medium border border-gray-100 rounded-lg bg-gray-900 md:space-x-8 rtl:space-x-reverse md:flex-row md:mt-0 md:border-0">
             <li>
-              <NavLink to="/" className={({ isActive }) => `block py-2 px-3 rounded ${isActive ? 'text-blue-700' : 'text-gray-400'} md:p-0`} end>
-                Home
+              <NavLink
+                  to="/"
+                      className={({isActive}) =>
+                          `block py-2 pr-4 pl-3 duration-200 ${isActive ? "text-blue-600" : "text-gray-300"} border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 hover:text-blue-600 lg:p-0`
+                      }
+                  >
+                      Home
               </NavLink>
             </li>
             <li>
-              <NavLink to="/Jobs" className={({ isActive }) => `block py-2 px-3 rounded ${isActive ? 'text-blue-700' : 'text-gray-400'} md:p-0`}>
+              <NavLink to="/Jobs" className={({isActive}) =>
+                          `block py-2 pr-4 pl-3 duration-200 ${isActive ? "text-blue-600" : "text-gray-300"} border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 hover:text-blue-600 lg:p-0`
+                      }>
                 Jobs
               </NavLink>
             </li>
             <li>
-              <NavLink to="/analysis" className={({ isActive }) => `block py-2 px-3 rounded ${isActive ? 'text-blue-700' : 'text-white'} md:p-0`}>
+              <NavLink to="/analysis" className={({isActive}) =>
+                          `block py-2 pr-4 pl-3 duration-200 ${isActive ? "text-blue-600" : "text-gray-300"} border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 hover:text-blue-600 lg:p-0`
+                      }>
                 Analysis
               </NavLink>
             </li>

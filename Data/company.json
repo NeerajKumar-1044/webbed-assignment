@@ -1,5 +1,5 @@
 [
-  {
+  {"id": 1,
     "name": "Quantum Leap Tech",
     "sector": ["Software/IT", "Cybersecurity"],
     "website": "https://www.quantumleap.com",
@@ -33,7 +33,7 @@
     ],
     "recruitmentData": [3, 5, 4, 4, 6]
   },
-  {
+  { "id": 2,
     "name": "Innovative Minds",
     "sector": ["AI/ML", "Software/IT"],
     "website": "https://www.innovativeminds.com",
@@ -66,7 +66,7 @@
     ],
     "recruitmentData": [6, 5, 6, 7, 8]
   },
-  {
+  { "id": 3,
     "name": "FutureTech Innovations",
     "sector": ["Software/IT", "Blockchain"],
     "website": "https://www.futuretech.com",
@@ -100,7 +100,7 @@
     ],
     "recruitmentData": [7, 6, 8, 6, 9]
   },
-  {
+  { "id": 4,
     "name": "Vortex Technologies",
     "sector": ["Software/IT", "Cloud Computing"],
     "website": "https://www.vortextech.com",
@@ -134,7 +134,7 @@
     ],
     "recruitmentData": [5, 4, 5, 6, 7]
   },
-  {
+  { "id": 5,
     "name": "DataDrive Solutions",
     "sector": ["Software/IT", "Data Science"],
     "website": "https://www.datadrive.com",
@@ -168,7 +168,7 @@
     ],
     "recruitmentData": [4, 5, 3, 4, 5]
   },
-  {
+  { "id": 6,
     "name": "TechGiant Solutions",
     "sector": ["Software/IT", "AI/ML"],
     "website": "https://www.techgiant.com",
@@ -201,7 +201,7 @@
     ],
     "recruitmentData": [3, 3, 4, 4, 6]
   },
-  {
+  { "id": 7,
     "name": "Alpha Coders",
     "sector": ["Software/IT", "Cybersecurity"],
     "website": "https://www.alphacoders.com",
@@ -234,7 +234,7 @@
     ],
     "recruitmentData": [4, 3, 5, 4, 5]
   },
-  {
+  { "id": 8,
     "name": "DeepNet Solutions",
     "sector": ["Software/IT", "AI/ML"],
     "website": "https://www.deepnetsolutions.com",
@@ -267,8 +267,7 @@
     ],
     "recruitmentData": [6, 7, 5, 6, 7]
   },
-  
-    {
+    { "id": 9,
       "name": "TechNova Solutions",
       "sector": ["Software/IT", "Cloud Computing"],
       "website": "https://www.technovasolutions.com",
@@ -301,7 +300,7 @@
       ],
       "recruitmentData": [5, 6, 4, 3, 6]
     },
-    {
+    { "id": 10,
       "name": "DataStream Analytics",
       "sector": ["Software/IT", "Data Science"],
       "website": "https://www.datastream.com",
@@ -334,7 +333,7 @@
       ],
       "recruitmentData": [4, 3, 5, 6, 5]
     },
-    {
+    { "id": 11,
       "name": "CyberNetics Corp",
       "sector": ["Software/IT", "Cybersecurity"],
       "website": "https://www.cybernetics.com",
@@ -367,7 +366,7 @@
       ],
       "recruitmentData": [3, 5, 6, 7, 5]
     },
-    {
+    { "id": 12,
       "name": "InnovateX Technologies",
       "sector": ["Software/IT", "AI/ML"],
       "website": "https://www.innovatex.com",
@@ -400,7 +399,7 @@
       ],
       "recruitmentData": [4, 6, 5, 6, 7]
     },
-    {
+    { "id": 13,
       "name": "NextGen CyberSec",
       "sector": ["Software/IT", "Cybersecurity"],
       "website": "https://www.nextgensecurity.com",
@@ -433,7 +432,7 @@
       ],
       "recruitmentData": [4, 6, 5, 5, 7]
     },
-    {
+    { "id": 14,
       "name": "Alpha Innovations",
       "sector": ["Software/IT", "Data Science"],
       "website": "https://www.alphainnovations.com",
@@ -466,7 +465,7 @@
       ],
       "recruitmentData": [5, 4, 6, 6, 8]
     },
-    {
+    { "id": 15,
       "name": "Bright Future Technologies",
       "sector": ["Software/IT", "Cloud Computing"],
       "website": "https://www.brightfuture.com",
@@ -499,7 +498,7 @@
       ],
       "recruitmentData": [6, 5, 5, 4, 7]
     },
-    {
+    { "id": 16,
       "name": "TechVista Solutions",
       "sector": ["Software/IT", "Data Science"],
       "website": "https://www.techvista.com",
@@ -532,7 +531,7 @@
       ],
       "recruitmentData": [5, 4, 5, 6, 7]
     },
-    {
+    { "id": 17,
       "name": "XtraByte Solutions",
       "sector": ["Software/IT", "Cybersecurity"],
       "website": "https://www.xtrabyte.com",
@@ -565,7 +564,7 @@
       ],
       "recruitmentData": [3, 4, 5, 6, 6]
     },
-    {
+    { "id": 18,
       "name": "Innovative Minds Pvt Ltd",
       "sector": ["Software/IT", "AI/ML"],
       "website": "https://www.innovativeminds.com",
